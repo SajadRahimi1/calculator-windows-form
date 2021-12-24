@@ -20,5 +20,10 @@ namespace Saeed
         {
             answer.Text = (float.Parse(number1.Text) + float.Parse(number2.Text)).ToString();
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            answer.Text = (float.Parse(number1.Text) - float.Parse(number2.Text)).ToString();
+        }
     }
 }
