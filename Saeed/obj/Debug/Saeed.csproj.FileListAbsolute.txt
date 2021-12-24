@@ -1,0 +1,9 @@
+C:\Users\Sajad\source\repos\Saeed\Saeed\bin\Debug\Saeed.exe
+C:\Users\Sajad\source\repos\Saeed\Saeed\bin\Debug\Saeed.pdb
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.csprojAssemblyReference.cache
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.Form1.resources
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.Properties.Resources.resources
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.csproj.GenerateResource.cache
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.csproj.CoreCompileInputs.cache
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.exe
+C:\Users\Sajad\source\repos\Saeed\Saeed\obj\Debug\Saeed.pdb
