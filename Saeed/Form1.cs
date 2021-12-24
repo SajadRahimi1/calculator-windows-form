@@ -18,7 +18,7 @@ namespace Saeed
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            
+            answer.Text = (float.Parse(number1.Text) + float.Parse(number2.Text)).ToString();
         }
     }
 }
