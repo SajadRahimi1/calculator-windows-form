@@ -41,5 +41,15 @@ namespace Saeed
             answer.Text = (Math.Pow(float.Parse(number1.Text), float.Parse(number2.Text))).ToString();
             
         }
+
+        private void Button6_Click(object sender, EventArgs e)
+        {
+            int result = 1;
+            for (int i = 1; i < int.Parse(number1.Text)+1; i++)
+            {
+                result = result * i;
+            }
+            answer.Text = result.ToString();
+        }
     }
 }
